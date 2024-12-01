@@ -13,7 +13,7 @@ Provide an interactive and visually appealing dashboard for decision-making.
 1. datasets/
 Contains the dataset used for creating the dashboard:
 
-HR_Analytics.xlsx
+HR_Analytics.CSV
 
 2. dashboards/
 Includes the Power BI dashboard file and screenshots:

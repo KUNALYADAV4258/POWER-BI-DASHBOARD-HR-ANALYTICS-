@@ -24,7 +24,7 @@ Dashboard IMG
 3. resources/
 Learning materials and references used to build the dashboard:
 
-Power_BI_Tutorial_by_Rishab_Mishra (YOUTUBE)
+Power_BI_Tutorial_by_Rishabh_Mishra (YOUTUBE)
 
 4. reports/
 Insights and findings derived from the dashboard:
